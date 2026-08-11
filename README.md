@@ -62,5 +62,53 @@ A short on-ramp for someone coming from a pure IT/web/AD pentesting background:
 | [ICS515: ICS Visibility, Detection, and Response](https://www.sans.org/cyber-security-courses/ics-visibility-detection-response) | SANS | Active defense/threat-hunting/incident-response focus. Prep path for the GRID certification. |
 | [ICS612: ICS Cybersecurity In-Depth](https://www.sans.org/cyber-security-courses/ics-cyber-security-in-depth) | SANS | Advanced, hands-on, simulated OT environment across the full Purdue stack. No certification attached currently. |
 | [ICS613: ICS/OT Penetration Testing & Assessments](https://www.sans.org/cyber-security-courses/ics-ot-penetration-testing-assessments) | SANS | Most directly relevant SANS course for offensive work — safe assessment methodology, protocol analysis, ICS Cyber Kill Chain-aligned attack scenarios. No certification attached currently. |
+| [IC32: Using the ISA/IEC 62443 Standards to Secure Your Industrial Control Systems](https://www.isa.org/training/course-description/ic32) | ISA | IC32 is first course in the ISA/IEC 62443 Cybersecurity Certificate Program. Pass the exam to earn the ISA/IEC 62443 Cybersecurity Fundamentals Specialist certificate. |
+| [IC33: Performing a Cybersecurity Risk Assessment](https://www.isa.org/training/course-description/ic33) | ISA | IC33 is the second course in the  ISA/IEC 62443 Cybersecurity Certificate Program. Pass the exam to earn the ISA/IEC 62443 Cybersecurity Risk Assessment Specialist certificate. |
+| [IC34: Addressing Cybersecurity for the IACS Design & Implementation](https://www.isa.org/training/course-description/ic34) | ISA | IC34 is third course in the ISA/IEC 62443 Cybersecurity Certificate Program. Pass the exam to earn the ISA/IEC 62443 Cybersecurity Design Specialist Certificate designation. |
+| [IC37: Managing Cybersecurity for the IACS Operations & Maintenance Phase](https://www.isa.org/training/course-description/ic37) | ISA | IC37 is fourth and final course in the ISA/IEC 62443 Cybersecurity Certificate Program. Pass the exam to earn the ISA/IEC 62443 Cybersecurity Maintenance Specialist Certificate designation. |
+| [ISAGCA Microlearning Modules](https://isagca.org/training-education) | ISA | Free, short (5–10 min) modules covering ISA/IEC 62443 topics. |
+| [EC-Council ICS/SCADA Cybersecurity](https://www.eccouncil.org/train-certify/ics-scada-cybersecurity/) | EC-Council | Course-plus-exam bundle. Foundational offense/defense concepts. Not equivalent in market weight to GICSP. |
+| [Dragos Academy Training Courses](https://www.dragos.com/dragos-academy) | Dragos | On-demand training solution offering new and existing Dragos Platform customers resources necessary for successful adoption and operationalization of OT cybersecurity practices and the Dragos Platform technology. Courses can be taken at the convenience of the learner, or monthly in our virtual or in-person live training sessions. |
+| [Fortiphyd Logic Training](https://learn.fortiphyd.com/) | Fortiphyd Logic | Hands-on offensive/defensive labs built by the creators of GRFICS. |
+
 
 ## University Courses
+| Program | University | Country |
+|---|---|---|
+| [Industrial Cybersecurity Engineering Technology](https://www.isu.edu/industrialcybersecurity/) | Idaho State University | United States |
+| [Graduate Certificate Programs: Industrial Control Systems Security](https://www.sans.edu/cyber-security-programs/graduate-certificate-industrial-control-systems-security/) | SANS Technology Institute | United States |
+| [ONLINE M.S. In Cybersecurity](https://online.utulsa.edu/programs/graduate-degrees/cybersecurity/) | University of Tulsa | United States |
+| [Graduate Certificate in Cybersecurity – Critical Infrastructure](https://www.tesu.edu/degrees-programs/certificates/graduate-cybersecurity-critical-infrastructure.php) | Thomas Edison State University | United States |
+| [MSIT — Cyber Security (IT/OT concentration)](https://future.utsa.edu/programs/master/msit-cyber-security/) | University of Texas at San Antonio | United States |
+| [MS in Applied Cybersecurity Engineering Technology](https://wwwcp.umes.edu/cset/master-of-science-in-cybersecurity-engineering-technology/) | University of Maryland Eastern Shore | United States |
+| [Operational Technology and Industrial Control Systems Security](https://www.rgu.ac.uk/study/courses/operational-technology-and-industrial-control-systems-security) | Robert Gordon University | Scotland |
+| [MSC Cyber Security](https://courses.uwe.ac.uk/I9001/cyber-security) | UWE Bristol | England |
+| [Critical Infrastructure Cyber Security (SCADA) — Short Course](https://www.unsw.edu.au/canberra/study-with-us/short-courses/critical-infrastructure-cyber-security) | UNSW Canberra | Australia |
+| [Critical Infrastructure and Control System Security](https://canberracyberhub.com.au/courses/critical-infrastructure-and-control-system-security) | UNSW Canberra | Australia |
+| [PhD Research — Industrial Control Systems & SCADA Cyber Security](https://www.unsw.edu.au/canberra/our-research/phd-study-opportunities/industrial-control-systems-scada-cyber-security) | UNSW Canberra | Australia |
+| [Online Professional Master's in OT – Industrial Cybersecurity](https://www.cci-es.org/en/masters-industrial-cybersecurity/) | Centro de Ciberseguridad Industrial (CCI) | Spain |
+| [Singapore-ICS Cybersecurity 301 (SG-ICS301)](https://www.sutd.edu.sg/academy-course/singapore-industrial-control-systems-cybersecurity-301-sg-ics-301/programme-outline/) | SUTD | Singapore |
+| [ICS (Industrial Control System) Cybersecurity Essentials](https://www.cet.np.edu.sg/stms_course/ics-industrial-control-system-cybersecurity-essentials) | Ngee Ann Polytechnic | Singapore |
+| [Cybersecurity Industrial Control Systems for Engineers (CSIE – Energy)](https://www.cet.np.edu.sg/stms_course/cybersecurity-industrial-control-systems-for-engineers-csie-energy-classroom-asynchronous-e-learning/) | Ngee Ann Polytechnic | Singapore |
+
+
+## Books
+
+
+
+## Standards & Frameworks
+
+
+## Protocols
+
+
+## Labs, Simulators & Virtual PLCs
+
+
+## Hardware to Buy
+
+
+## Vendor Engineering Software
+
+
+## Offensive Tooling
