@@ -112,3 +112,10 @@ A short on-ramp for someone coming from a pure IT/web/AD pentesting background:
 
 
 ## Offensive Tooling
+| [SCADAver](https://github.com/Whispergate/SCADAVER/blob/main/scripts/fetch_refs.py) | 
+
+
+## Related Awesome Lists
+[Awesome-ICS-Writeups](https://github.com/neutrinoguy/awesome-ics-writeups)
+[Awesome-ICS-Malware](https://github.com/donadelden/awesome-ics-malware)
+[Awesome-Industrial-Protocols](https://github.com/Orange-Cyberdefense/awesome-industrial-protocols)
