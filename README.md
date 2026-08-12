@@ -128,7 +128,7 @@ A short on-ramp for someone coming from a pure IT/web/AD pentesting background:
 | [Awesome-Industrial_Control-System-Security](https://github.com/hslatman/awesome-industrial-control-system-security) | hslatman | A curated list of resources related to Industrial Control System (ICS) security. |
 
 
-
+> This work is licensed under [CC BY 4.0.](https://creativecommons.org/licenses/by/4.0/legalcode.txt)
 
 
 
