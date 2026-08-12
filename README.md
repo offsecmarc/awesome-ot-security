@@ -43,10 +43,10 @@ A short on-ramp for someone coming from a pure IT/web/AD pentesting background:
 
 | Certification | Body | Notes |
 |---|---|---|
-| [GICSP](https://www.giac.org/certifications/global-industrial-cyber-security-professional-gicsp) (Global Industrial Cyber Security Professional) | GIAC | The de facto entry-level, vendor-neutral OT/ICS cert. No mandatory prerequisite course, though SANS ICS410 is the standard prep path. |
-| [GRID](https://www.giac.org/certifications/response-industrial-defense-grid) (GIAC Response and Industrial Defense) | GIAC | GRID certification holders understand how ICS-specific attacks inform mitigation strategies, and are ready to implement fundamental techniques such as network security monitoring (NSM), digital forensics and incident response (DFIR), and Active Defense approaches. |
-| [GCIP](https://www.giac.org/certifications/critical-infrastructure-protection-gcip) (GIAC Critical Infrastructure Protection) | GIAC | GCIP certification holders understand the regulatory requirements of the North American Electric Reliability Corporation's Critical Infrastructure Protection standards (NERC CIP), and are equipped with practical implementation strategies. |
-| [ISA/IEC 62443 Certificate Programs](https://www.isa.org/certification/certificate-programs/isa-iec-62443-cybersecurity-certificate-program) (Cybersecurity Fundamentals Specialist, Risk Assessment Specialist, Design/Implementation Specialist, Maintenance Specialist) | ISA/ISASecure | Standards-body certs tied directly to the IEC 62443 series; increasingly referenced in tender/RFP requirements. |
+| [GICSP (Global Industrial Cyber Security Professional)](https://www.giac.org/certifications/global-industrial-cyber-security-professional-gicsp) | GIAC | The de facto entry-level, vendor-neutral OT/ICS cert. No mandatory prerequisite course, though SANS ICS410 is the standard prep path. |
+| [GRID (GIAC Response and Industrial Defense)](https://www.giac.org/certifications/response-industrial-defense-grid) | GIAC | GRID certification holders understand how ICS-specific attacks inform mitigation strategies, and are ready to implement fundamental techniques such as network security monitoring (NSM), digital forensics and incident response (DFIR), and Active Defense approaches. |
+| [GCIP (GIAC Critical Infrastructure Protection)](https://www.giac.org/certifications/critical-infrastructure-protection-gcip) | GIAC | GCIP certification holders understand the regulatory requirements of the North American Electric Reliability Corporation's Critical Infrastructure Protection standards (NERC CIP), and are equipped with practical implementation strategies. |
+| [ISA/IEC 62443 Certificate Programs (Cybersecurity Fundamentals Specialist, Risk Assessment Specialist, Design/Implementation Specialist, Maintenance Specialist)](https://www.isa.org/certification/certificate-programs/isa-iec-62443-cybersecurity-certificate-program) | ISA/ISASecure | Standards-body certs tied directly to the IEC 62443 series; increasingly referenced in tender/RFP requirements. |
 | [CompTIA SecOT+](https://www.comptia.org/en-us/certifications/secot/) | CompTIA | CompTIA SecOT+ validates your skills to secure and manage operational technology (OT) systems in manufacturing and critical infrastructure. Launches in December 2026. |
 
 
@@ -112,10 +112,35 @@ A short on-ramp for someone coming from a pure IT/web/AD pentesting background:
 
 
 ## Offensive Tooling
-| [SCADAver](https://github.com/Whispergate/SCADAVER/blob/main/scripts/fetch_refs.py) | 
+> Use tools with caution and carry out your own DD. I take no responsibility for the function, output, or results of these tools.
+
+| Tool | Category | Note |
+|---|---|---| 
+| [SCADAVER](https://github.com/Whispergate/SCADAVER/blob/main/scripts/fetch_refs.py) | Exploitation Framework | Discovers, enumerates, and exploits devices across twelve industrial control protocols. Single binary with a terminal UI, bloodyAD-style CLI, and REST web interface. |
 
 
 ## Related Awesome Lists
-[Awesome-ICS-Writeups](https://github.com/neutrinoguy/awesome-ics-writeups)
-[Awesome-ICS-Malware](https://github.com/donadelden/awesome-ics-malware)
-[Awesome-Industrial-Protocols](https://github.com/Orange-Cyberdefense/awesome-industrial-protocols)
+| Title | Author | Description |
+|---|---|---|
+| [Awesome-ICS-Writeups](https://github.com/neutrinoguy/awesome-ics-writeups) | neutrinoguy | A collection of writeups related to ICS/SCADA hacking. |
+| [Awesome-ICS-Malware](https://github.com/donadelden/awesome-ics-malware) | donadelden | A curated and updated1 list of awesome (and not-so-awesome) ICS malware. |
+| [Awesome-Industrial-Protocols](https://github.com/Orange-Cyberdefense/awesome-industrial-protocols) | Orange-Cyberdefense | Compilation of industrial network protocols resources focusing on offensive security. |
+| [Awesome-Industrial_Control-System-Security](https://github.com/hslatman/awesome-industrial-control-system-security) | hslatman | A curated list of resources related to Industrial Control System (ICS) security. |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
