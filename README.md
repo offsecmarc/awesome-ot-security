@@ -9,6 +9,7 @@ Training, certifications, labs, protocols, and tooling for OT/ICS penetration te
 - [Training Courses](#training-courses)
 - [University Courses](#university-courses)
 - [Books](#books)
+- [Youtube Channels](#youtube-channels)
 - [Standards & Frameworks](#standards--frameworks)
 - [Protocols](#protocols)
 - [Labs, Simulators & Virtual PLCs](#labs-simulators--virtual-plcs)
@@ -94,6 +95,39 @@ A short on-ramp for someone coming from a pure IT/web/AD pentesting background:
 ## Books
 
 
+
+## YouTube Channels
+
+| Channel | Type | Description |
+|---|---|---|
+| [@utilsec](https://www.youtube.com/@utilsec) | Individual Contributor | Getting-started guidance and practical advice for breaking into OT/ICS cybersecurity. |
+| [@RickCenOT](https://www.youtube.com/@RickCenOT) | Individual Contributor | OT/ICS hardware hacking and pentesting, covering SCADA, PLC, and IIoT device security. |
+| [@ZakharBernhardt](https://www.youtube.com/@ZakharBernhardt) | Individual Contributor | Home of Labshock, a virtual OT/ICS lab for hands-on practice. |
+| [@icsotsecurity](https://www.youtube.com/@icsotsecurity) | Individual Contributor | Manjunath's channel on industrial automation and OT/ICS/SCADA security, with a strong ISA/IEC 62443 focus. |
+| [@Cursed_Controls](https://www.youtube.com/@Cursed_Controls) | Individual Contributor | Industrial maintenance, PLCs, VFDs, and motor controls. Raw, hands-on electrical/automation content, not a safety tutorial. |
+| [@S4Events](https://www.youtube.com/@S4Events) | Conference | Talks from S4, the largest annual ICS/OT security conference. |
+| [@ICSVillage](https://www.youtube.com/@ICSVillage) | Conference | DEF CON's ICS Village. Critical infrastructure security education, plus the Hack the Planet podcast. |
+| [@HoustonSecurityConference](https://www.youtube.com/@HoustonSecurityConference) | Conference | Includes OT.SEC.CON presentations on operational technology security. |
+| [@CS2AI](https://www.youtube.com/@CS2AI) | Association | Recordings from (CS)²AI, the global nonprofit association for OT/ICS security professionals. |
+| [@OTSecurityProfessionals](https://www.youtube.com/@OTSecurityProfessionals) | Association | Community-driven OT security content from the OT Sec Professionals group. |
+| [@SANSICSSecurity](https://www.youtube.com/@SANSICSSecurity) | Training Company | SANS' official ICS/OT training content from their instructor lineup. |
+| [@OPSWATAcademy](https://www.youtube.com/@OPSWATAcademy) | Training Company | OPSWAT's training platform covering IT and OT cybersecurity fundamentals. |
+| [@PrOTectITAll](https://www.youtube.com/@PrOTectITAll) | Podcast | Aaron Crow's podcast on the intersection of OT, IT, and compliance. |
+| [@ICSArabiaPodcast](https://www.youtube.com/@ICSArabiaPodcast) | Podcast | Sulaiman Alhasawi's ICS/OT security podcast, in English and Arabic. |
+| [@BitesandBytesPodcast](https://www.youtube.com/@BitesandBytesPodcast) | Podcast | Kristin Demoranville's podcast on cybersecurity in the food & agriculture sector. |
+| [@LMTX](https://www.youtube.com/@LMTX) | Individual Contributor | Lukasz Malinowski on IoT/IIoT/OT, aimed at helping SMBs build enterprise-grade solutions. |
+| [@DragosInc](https://www.youtube.com/@DragosInc) | Vendor | Dragos' ICS/OT threat research and platform content. |
+| [@WaterfallSecuritySolutions](https://www.youtube.com/@WaterfallSecuritySolutions) | Vendor | Waterfall Security's content and podcast on cyber-physical OT protection. |
+| [@Claroty20](https://www.youtube.com/@Claroty20) | Vendor | Claroty's OT/IoT security research and podcast episodes. |
+| [@xIoTSecurity](https://www.youtube.com/@xIoTSecurity) | Vendor | Phosphorus' content and podcast on xIoT/OT device security. |
+| [@NozomiNetworks](https://www.youtube.com/@NozomiNetworks) | Vendor | Nozomi Networks' OT/IoT security content, including talks from Marty Edwards. |
+| [@InsaneCyberInc](https://www.youtube.com/@InsaneCyberInc) | Vendor | Dan Gunter and team on OT/ICS cyber defense. |
+| [@CISAgov](https://www.youtube.com/@CISAgov) | Government/Regulator | CISA's official channel. Training pointers and critical infrastructure security content. |
+| [@SimplyCyber](https://www.youtube.com/@SimplyCyber) | Training Company | General cyber career/training channel now covering OT/ICS with Don Wagner and Tom VanNorman. |
+| [@PancakesCon](https://www.youtube.com/@PancakesCon) | Conference | Lesley Carhart's annual, low-pressure cybersecurity con with a fun twist. |
+| [@USCSB](https://www.youtube.com/@USCSB) | Government/Regulator | US Chemical Safety Board. Detailed investigation videos on industrial plant incidents and what went wrong. |
+| [@RealPars](https://www.youtube.com/@realpars) | Training Company | Industrial automation and PLC programming fundamentals across Siemens, Allen-Bradley, and other platforms. Not security-focused, but a strong prerequisite for understanding what you're attacking. |
+| [@plcprofessor](https://www.youtube.com/@plcprofessor) | Individual Contributor | Free, classroom-built lecture and hands-on lab series on PLC fundamentals (RSLogix/Studio 5000), aimed at electricians and engineers new to control systems. |
 
 ## Standards & Frameworks
 
