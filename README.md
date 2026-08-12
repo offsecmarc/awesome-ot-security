@@ -1,4 +1,4 @@
-# OT-Resources
+# awesome-ot-security
 Training, certifications, labs, protocols, and tooling for OT/ICS penetration testing and security assessments.
 
 ## Contents
