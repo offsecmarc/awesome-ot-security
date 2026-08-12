@@ -14,8 +14,7 @@ Training, certifications, labs, protocols, and tooling for OT/ICS penetration te
 - [Labs, Simulators & Virtual PLCs](#labs-simulators--virtual-plcs)
 - [Hardware to Buy](#hardware-to-buy)
 - [Vendor Engineering Software](#vendor-engineering-software)
-- [Offensive Tooling](#offensive-tooling)
-- [Defensive / Monitoring Tooling](#defensive--monitoring-tooling)
+- [Tooling](#tooling)
 - [CTFs, Ranges & Competitions](#ctfs-ranges--competitions)
 - [Datasets, PCAPs & Malware Samples](#datasets-pcaps--malware-samples)
 - [Threat Intelligence & Malware Research](#threat-intelligence--malware-research)
@@ -111,7 +110,7 @@ A short on-ramp for someone coming from a pure IT/web/AD pentesting background:
 ## Vendor Engineering Software
 
 
-## Offensive Tooling
+## Tooling
 > Use tools with caution and carry out your own DD. I take no responsibility for the function, output, or results of these tools.
 
 | Tool | Category | Note |
