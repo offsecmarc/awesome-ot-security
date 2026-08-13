@@ -94,6 +94,21 @@ A short on-ramp for someone coming from a pure IT/web/AD pentesting background:
 
 ## Books
 
+| Book | Author(s) | Notes |
+|---|---|---|
+| Industrial Network Security: Securing Critical Infrastructure Networks for Smart Grid, SCADA, and Other Industrial Control Systems | Eric D. Knapp (and Joel Thomas Langill in later editions) | The standard reference text, now in multiple editions. Vendor-neutral overview of ICS/SCADA architecture and defense-in-depth. |
+| Hacking Exposed Industrial Control Systems: ICS and SCADA Security Secrets & Solutions | Clint Bodungen, Bryan Singer, Aaron Shbeeb, Kyle Wilhoit, Jacob Hilt | Offense-oriented, closest in tone to a pentesting field guide. Covers real attack methodologies and exploitation techniques against ICS/SCADA. |
+| Practical Industrial Cybersecurity: ICS, Industry 4.0, and IIoT | Charles J. Brooks, Philip A. Craig Jr. | Frequently cited as a GICSP self-study companion. Covers IIoT and Industry 4.0 convergence. |
+| Cybersecurity for Industrial Control Systems: SCADA, DCS, PLC, HMI, and SIS | Tyson Macaulay, Bryan L. Singer | Covers ICS threat landscape, risk assessment methodology, and IT-vs-OT security requirement differences. |
+| Industrial Automation and Control System Security Principles: Protecting the Critical Infrastructure | Ronald L. Krutz | Broad principles-level text on protecting critical infrastructure control systems. |
+| Cyber-security of SCADA and Other Industrial Control Systems | Edward J. M. Colbert, Alexander Kott (eds.) | Academic/reference-style anthology covering ICS threats, attacks, metrics, risk, situational awareness, and intrusion detection. |
+| Applied Cyber Security and the Smart Grid | Eric D. Knapp, Raj Samani | Power-sector specific — smart grid architecture and security. |
+| Engineering-Grade OT Security: A Manager's Guide | Andrew Ginter | OT security framed from a managerial/engineering-risk perspective rather than a pure technical angle. |
+| Implementing IEC 62443 – A Pragmatic Approach to Cybersecurity | Michael D. Medoff, Patrick C. O'Brien | Practical, standards-focused guide to applying the IEC 62443 series. |
+| Countdown to Zero Day: Stuxnet and the Launch of the World's First Digital Weapon | Kim Zetter | Narrative history of Stuxnet. Good context-building on the field's defining case study; not a technical manual. |
+| Sandworm: A New Era of Cyberwar and the Hunt for the Kremlin's Most Dangerous Hackers | Andy Greenberg | Narrative account of state-sponsored ICS/critical-infrastructure attacks (Industroyer, NotPetya, and the Sandworm group). Strong for building non-technical stakeholder buy-in on OT risk. |
+| Protecting Industrial Control Systems from Electronic Threats | Joseph Weiss | One of the earliest dedicated ICS security texts; historical grounding on the field's foundational risk concerns. |
+| Cyber Attacks on Critical Infrastructures: A Collection of Expert Perspectives | Robert Radvanovsky, Jacob Brodsky (eds.) | Community-anthology collection of articles from a wide range of ICS security practitioners and perspectives. |
 
 
 ## YouTube Channels
