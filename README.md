@@ -10,6 +10,7 @@ Training, certifications, labs, protocols, and tooling for OT/ICS penetration te
 - [University Courses](#university-courses)
 - [Books](#books)
 - [Youtube Channels](#youtube-channels)
+- [Professionals](#professionals)
 - [Standards & Frameworks](#standards--frameworks)
 - [Protocols](#protocols)
 - [Labs, Simulators & Virtual PLCs](#labs-simulators--virtual-plcs)
@@ -109,6 +110,9 @@ A short on-ramp for someone coming from a pure IT/web/AD pentesting background:
 | Sandworm: A New Era of Cyberwar and the Hunt for the Kremlin's Most Dangerous Hackers | Andy Greenberg | Narrative account of state-sponsored ICS/critical-infrastructure attacks (Industroyer, NotPetya, and the Sandworm group). Strong for building non-technical stakeholder buy-in on OT risk. |
 | Protecting Industrial Control Systems from Electronic Threats | Joseph Weiss | One of the earliest dedicated ICS security texts; historical grounding on the field's foundational risk concerns. |
 | Cyber Attacks on Critical Infrastructures: A Collection of Expert Perspectives | Robert Radvanovsky, Jacob Brodsky (eds.) | Community-anthology collection of articles from a wide range of ICS security practitioners and perspectives. |
+| Industrial Cybersecurity (2nd Edition) | Pascal Ackerman | Each edition is a substantial, hands-on volume; practical resource for monitoring cybersecurity posture in ICS environments. |
+| Industrial Cybersecurity: Case Studies and Best Practices | Steve Mustard | Real-world case studies from an engineering point of view; good intro grounded in practitioner experience. |
+| Countering Cyber Sabotage: Introducing Consequence-Driven, Cyber-Informed Engineering (CCE) | Andrew A. Bochman, Sarah Freeman | Applies engineering principles to protect OT/ICS from cyber sabotage; introduces the CCE methodology. |
 
 
 ## YouTube Channels
@@ -143,6 +147,70 @@ A short on-ramp for someone coming from a pure IT/web/AD pentesting background:
 | [@USCSB](https://www.youtube.com/@USCSB) | Government/Regulator | US Chemical Safety Board. Detailed investigation videos on industrial plant incidents and what went wrong. |
 | [@RealPars](https://www.youtube.com/@realpars) | Training Company | Industrial automation and PLC programming fundamentals across Siemens, Allen-Bradley, and other platforms. Not security-focused, but a strong prerequisite for understanding what you're attacking. |
 | [@plcprofessor](https://www.youtube.com/@plcprofessor) | Individual Contributor | Free, classroom-built lecture and hands-on lab series on PLC fundamentals (RSLogix/Studio 5000), aimed at electricians and engineers new to control systems. |
+
+
+## Professionals
+| Name | Bio |
+|---|---|
+| [Aaron C. Crow](https://linkedin.com/in/aaronccrow) | Hosts the PrOTect IT All podcast, focused on OT/ICS security conversations. |
+| [Alana Murray](https://www.linkedin.com/in/alana-murray-065a64297) | Works in OT/ICS security at Halifax Water, a Canadian utility. |
+| [Andrew Ginter](https://www.linkedin.com/in/andrewginter/) | VP of Industrial Security at Waterfall Security. Author of "Engineering-Grade OT Security." |
+| [Anna Ribeiro](https://www.linkedin.com/in/anna-ribeiro-59a82264/) | Journalist and editor at Industrial Cyber, covering OT/ICS security news. |
+| [Bryan Singer](https://www.linkedin.com/in/bryan-l-singer/) | OT security leader at Accenture. Co-author of "Hacking Exposed Industrial Control Systems." |
+| [Bryson Bort](https://www.linkedin.com/in/brysonbort/) | Founder of ICS Village and SCYTHE. Prominent OT security advocate and speaker. |
+| [Chris Sistrunk](https://www.linkedin.com/in/chrissistrunk/) | OT security expert at Mandiant. Well known ICS incident response voice. |
+| [Clint Bodungen](https://www.linkedin.com/in/clintb/) | Founder of ThreatGEN. Co-author of "Hacking Exposed Industrial Control Systems." |
+| [Dale Peterson](https://linkedin.com/in/dale-peterson-s4) | Founder of S4 Events and Digital Bond. Longtime ICS security thought leader. |
+| [Dan Gunter](https://www.linkedin.com/in/dan-gunter/) | Works at Insane Cyber, focused on OT/ICS threat detection. |
+| [Dan Ricci](https://www.linkedin.com/in/danricci14/) | Runs the ICS Advisory Project, tracking ICS vulnerability advisories. |
+| [Danielle Jablanski](https://www.linkedin.com/in/daniellejjablanski/) | OT security professional at SVG (Southern Company). |
+| [David Batz](https://www.linkedin.com/in/davidbatz/) | Works on grid security at Edison Electric Institute. |
+| [Dawn Cappelli](https://www.linkedin.com/in/dawn-cappelli-cissp-a329505/) | OT/ICS security leader at Dragos, formerly built Rockwell Automation's threat program. |
+| [Dean Parsons](https://www.linkedin.com/in/dean-parsons-cybersecurity/) | Founder of ICS Defense Force. SANS instructor for ICS security training. |
+| [Derek Harp](https://linkedin.com/in/derekharp) | Founder of CS2AI (Control System Cyber Security Association International). |
+| [Don C. Weber](https://linkedin.com/in/cutaway) | Founder of Cutaway Security. SANS instructor in ICS/OT penetration testing. |
+| [Eric Knapp](https://www.linkedin.com/in/ericdknapp/) | OT security expert at OPSWAT. Author of "Industrial Network Security." |
+| [Emma Stewart](https://www.linkedin.com/in/emma-m-stewart/) | OT/ICS security researcher at Idaho National Laboratory. |
+| [Jason Christopher](https://linkedin.com/in/jdchristopher) | Works with EIP and SANS on ICS/OT security and grid resilience. |
+| [Jason Dely](https://www.linkedin.com/in/jasonjdely/) | OT security expert at NetRise. SANS instructor. |
+| [Joe Langill](https://www.linkedin.com/in/joel-langill-scadahacker/) | Expert, consultant, and author in the OT/ICS domain. |
+| [Joe Marshall](https://www.linkedin.com/in/joeics/) | OT security lead at Cisco, focused on industrial network defense. |
+| [Joe Slowik](https://www.linkedin.com/in/joe-slowik/) | Threat intelligence expert at MITRE, focused on ICS-targeting adversaries. |
+| [John Kingsley](https://www.linkedin.com/in/sjkingsley/) | OT security professional at Hitachi Energy. |
+| [Jonathan Pollet](https://www.linkedin.com/in/jonathanpollet/) | OT/ICS security consultant and researcher, with a background spanning industrial risk assessment and penetration testing. |
+| [Jonathon Gordon](https://www.linkedin.com/in/jonathongordon/) | Industry analyst at Takepoint Research, covering industrial cybersecurity. |
+| [Justin Searle](https://www.linkedin.com/in/meeas/) | OT security expert at InGuardians. SANS instructor. |
+| [Kate Johnson](https://www.linkedin.com/in/kate-johnson-12954941/) | Works in OT security at Consumers Energy. |
+| [Kevin Kumpf](https://www.linkedin.com/in/kevin-kumpf-b5021412/) | Works at Hard Hat Cybersecurity, focused on OT risk management. |
+| [Kristin King](https://www.linkedin.com/in/kingmkristin/) | Founder of AnzenOT. Hosts the Bites & Bytes podcast on food and agriculture OT security. |
+| [Lesley Carhart](https://www.linkedin.com/in/lcarhart/) | Director of Incident Response at Dragos. Well known ICS security speaker and writer. |
+| [Manjunath Hiregange](https://www.linkedin.com/in/manjunathhiregange/) | OT security professional at GE Vernova. |
+| [Marcel Rick-Cen](https://www.linkedin.com/in/marcelrickcen/) | OT security lead at Henkel. |
+| [Mark Fabro](https://www.linkedin.com/in/mark-fabro-a4319321/) | Longtime OT/ICS security consultant and researcher, recognized as one of the field's founding practitioners. |
+| [Mark Hyman](https://www.linkedin.com/in/mark-hyman-gtm/) | Talent and go to market specialist connecting professionals with OT/IoT cybersecurity roles. |
+| [Marty Edwards](https://www.linkedin.com/in/icsmartyedwards/) | OT security executive, associated with SiriusPPT. Former ICS-CERT director. |
+| [Michelle Balderson](https://www.linkedin.com/in/michelle-balderson-34498a13/) | OT security professional at ISSQUARED. |
+| [Mike Holcomb](https://linkedin.com/in/mikeholcomb) | Runs UtilSec and mikeholcomb.com, focused on OT/ICS education. |
+| [Oren Niskin](https://www.linkedin.com/in/orenniskin/) | OT security professional at Guidepoint. |
+| [Pascal Ackerman](https://www.linkedin.com/in/pascal-ackerman-036a867b/) | Principal at 1898 & Co. Author of "Industrial Cybersecurity." |
+| [Patrick Miller](https://www.linkedin.com/in/millerpatrickc/) | CEO of Ampyx Cyber (formerly Ampere Industrial Security). |
+| [Paul Shaver](https://www.linkedin.com/in/pbshaver/) | OT security consultant at Mandiant. |
+| [Paul Smith](https://www.linkedin.com/in/paul-smith-cyber/) | OT security professional at Honeywell. |
+| [Ric Derbyshire](https://www.linkedin.com/in/ricderby/) | Principal Security Researcher, OT & Critical Infrastructure at Orange Cyberdefense. |
+| [Robert M. Lee](https://linkedin.com/in/robmichaellee) | CEO and founder of Dragos. SANS instructor and leading ICS threat intelligence figure. |
+| [Roya Gordon](https://www.linkedin.com/in/roya-gordon-ciso/) | OT security researcher and advisor. |
+| [Saltanat Mashirova](https://www.linkedin.com/in/saltanat-mashirova-b88bba193/) | OT security professional at CPX. |
+| [Sasha Mullins Lassiter](https://www.linkedin.com/in/chromecowgirl/) | OT security professional at Dragos. |
+| [Shiv Kataria](https://www.linkedin.com/in/shivkataria/) | OT security professional at Siemens. |
+| [Sinclair Koelemij](https://www.linkedin.com/in/sihoko/) | Runs Cyber-Physical Risk consultancy. |
+| [Stuart King](https://www.linkedin.com/in/stu8king/) | Founder and CTO of AnzenOT. |
+| [Sulaiman Alhasawi](https://www.linkedin.com/in/alhasawi/) | Founder of ICSRank/ZeronTek. Hosts ICS Arabia podcast. |
+| [Talib Usmani](https://www.linkedin.com/in/talib-usmani/) | OT security professional at Honeywell. |
+| [Tim Conway](https://www.linkedin.com/in/tim-conway-sans/) | SANS Institute instructor and ICS curriculum lead. |
+| [Tony Turner](https://www.linkedin.com/in/tonyturnercissp/) | VP Product at Frenos. SANS instructor for supply chain security. |
+| [Thomas VanNorman](https://www.linkedin.com/in/thomasvannorman/) | Works with ICS Village. |
+| [Zakhar Bernhardt](https://www.linkedin.com/in/zakharb/) | Founder and CEO of Labshock Security. Creator of an OT focused SIEM platform. |
+
 
 ## Standards & Frameworks
 
