@@ -153,6 +153,7 @@ A short on-ramp for someone coming from a pure IT/web/AD pentesting background:
 | Name | Bio |
 |---|---|
 | [Aaron C. Crow](https://linkedin.com/in/aaronccrow) | Hosts the PrOTect IT All podcast, focused on OT/ICS security conversations. |
+| [Adam Bromiley](https://www.linkedin.com/in/adambromiley/) | OT and embedded security consultant at Pen Test Partners |
 | [Alana Murray](https://www.linkedin.com/in/alana-murray-065a64297) | Works in OT/ICS security at Halifax Water, a Canadian utility. |
 | [Andrew Ginter](https://www.linkedin.com/in/andrewginter/) | VP of Industrial Security at Waterfall Security. Author of "Engineering-Grade OT Security." |
 | [Anna Ribeiro](https://www.linkedin.com/in/anna-ribeiro-59a82264/) | Journalist and editor at Industrial Cyber, covering OT/ICS security news. |
@@ -200,6 +201,7 @@ A short on-ramp for someone coming from a pure IT/web/AD pentesting background:
 | [Robert M. Lee](https://linkedin.com/in/robmichaellee) | CEO and founder of Dragos. SANS instructor and leading ICS threat intelligence figure. |
 | [Roya Gordon](https://www.linkedin.com/in/roya-gordon-ciso/) | OT security researcher and advisor. |
 | [Saltanat Mashirova](https://www.linkedin.com/in/saltanat-mashirova-b88bba193/) | OT security professional at CPX. |
+| [Sam Thom](https://www.linkedin.com/in/blackfell/) | Hardware and Operational Technology security consultant at Pen Test Partners |
 | [Sasha Mullins Lassiter](https://www.linkedin.com/in/chromecowgirl/) | OT security professional at Dragos. |
 | [Shiv Kataria](https://www.linkedin.com/in/shivkataria/) | OT security professional at Siemens. |
 | [Sinclair Koelemij](https://www.linkedin.com/in/sihoko/) | Runs Cyber-Physical Risk consultancy. |
