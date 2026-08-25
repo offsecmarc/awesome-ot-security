@@ -71,6 +71,7 @@ A short on-ramp for someone coming from a pure IT/web/AD pentesting background:
 | [EC-Council ICS/SCADA Cybersecurity](https://www.eccouncil.org/train-certify/ics-scada-cybersecurity/) | EC-Council | Course-plus-exam bundle. Foundational offense/defense concepts. Not equivalent in market weight to GICSP. |
 | [Dragos Academy Training Courses](https://www.dragos.com/dragos-academy) | Dragos | On-demand training solution offering new and existing Dragos Platform customers resources necessary for successful adoption and operationalization of OT cybersecurity practices and the Dragos Platform technology. Courses can be taken at the convenience of the learner, or monthly in our virtual or in-person live training sessions. |
 | [Fortiphyd Logic Training](https://learn.fortiphyd.com/) | Fortiphyd Logic | Hands-on offensive/defensive labs built by the creators of GRFICS. |
+| [HKSM ICS/OT Courses](https://hksmnow.com/#ics-ot-courses) | HK School of Management and Technology | Introductory and fundamentals courses for beginners in ICS/OT. |
 
 
 ## University Courses
