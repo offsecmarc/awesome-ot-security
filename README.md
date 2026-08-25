@@ -167,6 +167,7 @@ A short on-ramp for someone coming from a pure IT/web/AD pentesting background:
 | [Dan Ricci](https://www.linkedin.com/in/danricci14/) | Runs the ICS Advisory Project, tracking ICS vulnerability advisories. |
 | [Danielle Jablanski](https://www.linkedin.com/in/daniellejjablanski/) | OT security professional at SVG (Southern Company). |
 | [David Batz](https://www.linkedin.com/in/davidbatz/) | Works on grid security at Edison Electric Institute. |
+| [David W.](https://linkedin.com/in/david-w-6039033) | CISO at Jemena, Co-Founder of BSides ICS Downunder |
 | [Dawn Cappelli](https://www.linkedin.com/in/dawn-cappelli-cissp-a329505/) | OT/ICS security leader at Dragos, formerly built Rockwell Automation's threat program. |
 | [Dean Parsons](https://www.linkedin.com/in/dean-parsons-cybersecurity/) | Founder of ICS Defense Force. SANS instructor for ICS security training. |
 | [Derek Harp](https://linkedin.com/in/derekharp) | Founder of CS2AI (Control System Cyber Security Association International). |
