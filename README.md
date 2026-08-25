@@ -1,5 +1,5 @@
 # awesome-ot-security
-Training, certifications, labs, protocols, and tooling for OT/ICS penetration testing and security assessments.
+Training, certifications, labs, protocols, and tooling for OT/ICS penetration testing and security assessments. Work In Progress.
 
 ## Contents
  
@@ -212,6 +212,7 @@ A short on-ramp for someone coming from a pure IT/web/AD pentesting background:
 | [Tim Conway](https://www.linkedin.com/in/tim-conway-sans/) | SANS Institute instructor and ICS curriculum lead. |
 | [Tony Turner](https://www.linkedin.com/in/tonyturnercissp/) | VP Product at Frenos. SANS instructor for supply chain security. |
 | [Thomas VanNorman](https://www.linkedin.com/in/thomasvannorman/) | Works with ICS Village. |
+| [Yury Kozlov](https://linkedin.com/in/yury-kozlov) | OT Controls engineering manager at Greater Toronto Airports, shares trainig courses. |
 | [Zakhar Bernhardt](https://www.linkedin.com/in/zakharb/) | Founder and CEO of Labshock Security. Creator of an OT focused SIEM platform. |
 
 
