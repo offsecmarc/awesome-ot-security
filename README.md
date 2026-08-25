@@ -173,6 +173,7 @@ A short on-ramp for someone coming from a pure IT/web/AD pentesting background:
 | [Don C. Weber](https://linkedin.com/in/cutaway) | Founder of Cutaway Security. SANS instructor in ICS/OT penetration testing. |
 | [Eric Knapp](https://www.linkedin.com/in/ericdknapp/) | OT security expert at OPSWAT. Author of "Industrial Network Security." |
 | [Emma Stewart](https://www.linkedin.com/in/emma-m-stewart/) | OT/ICS security researcher at Idaho National Laboratory. |
+| [Gavin Dilworth](https://www.linkedin.com/in/gavin-dilworth/) | Principal Consultant - ICS/OT at assessment Plus, IEC-62443 Expert. |
 | [Jason Christopher](https://linkedin.com/in/jdchristopher) | Works with EIP and SANS on ICS/OT security and grid resilience. |
 | [Jason Dely](https://www.linkedin.com/in/jasonjdely/) | OT security expert at NetRise. SANS instructor. |
 | [Joe Langill](https://www.linkedin.com/in/joel-langill-scadahacker/) | Expert, consultant, and author in the OT/ICS domain. |
