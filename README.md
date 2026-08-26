@@ -13,6 +13,7 @@ Training, certifications, labs, protocols, and tooling for OT/ICS penetration te
 - [Professionals](#professionals)
 - [Standards & Frameworks](#standards--frameworks)
 - [Protocols](#protocols)
+- [Operating Systems](#operating-systems)
 - [Labs, Simulators & Virtual PLCs](#labs-simulators--virtual-plcs)
 - [Hardware to Buy](#hardware-to-buy)
 - [Vendor Engineering Software](#vendor-engineering-software)
@@ -222,6 +223,14 @@ A short on-ramp for someone coming from a pure IT/web/AD pentesting background:
 
 
 ## Protocols
+
+
+## Operating Systems
+
+| Name | Description | Base OS | Architecture | Maintainer/Vendor | Cost | Min. Requirements | Description |
+|---|---|---|---|---|---|---|---|
+| [LINICS](https://www.hacktonics.io/linics/) | Debian 12 (Bookworm) | AMD64 (64-bit) | Hacktonics | Free | 4 GB RAM, 50 GB disk, 2 cores | Linux-based platform bundling specialised ICS security tools (including Hacktonics' own) alongside general-purpose IT security tools commonly used in OT engagements |
+| [ControlThings Platform](https://www.controlthings.io/platform) | Debian | 64-bit (VM only) | ControlThings.io | Free | 4 GB RAM (8 GB recommended if host has 16GB+) | Linux distribution for cyber security assessment and penetration testing of ICS, including SCADA, DCS, IoT/IIoT systems, field devices, and field busses. Pre-built VM rather than an ISO |
 
 
 ## Labs, Simulators & Virtual PLCs
